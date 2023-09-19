@@ -1,2 +1,2 @@
 # PythonOOP
-The Original Code repository for my Python OOP Series
+The repo for my Python OOP practice
